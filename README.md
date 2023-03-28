@@ -1,5 +1,5 @@
 # Drone
-Algorithm Design and Simulation for Drones. 
+
 
 Here's a broad explanation of the algorithm and the approach taken to construct it:
 1. Problem Definition:
